@@ -15,3 +15,6 @@ https://io.adafruit.com/endico/feeds/failures
 
 This is the issue I created for the connection errors  
 https://github.com/adafruit/circuitpython/issues/3772
+
+The battery I'm using is the 3.7v 420mAh Lithium  Ion Battery
+https://www.adafruit.com/product/4236
